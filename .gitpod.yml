@@ -1,1 +1,1 @@
-{ image: { file: .gitpod.Dockerfile } }
+{ image: { file: .metallium.cljweb } }
